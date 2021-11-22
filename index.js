@@ -133,9 +133,6 @@ const savingsAccount = {
 };
 
 savingsAccount.balance;
-savingsAccount["balance"];
-savingsAccount.withdraw(50);
-savingsAccount.removeMoney(50);
 
 /*
 5. FACEBOOK FRIENDS
